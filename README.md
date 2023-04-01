@@ -13,7 +13,7 @@
 
 
 ### Salida 
-* los datos de se guardan en la collecion "orders" en header y detail 
+* los datos de se guardan en la collecion "orders" en "header" y "detail" 
 
 
 
